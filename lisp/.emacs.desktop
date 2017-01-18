@@ -1,0 +1,51 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Jan 17 19:04:30 2017
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22653 64062 759960 0) (desktop . "206") "daipeng@hackroledeMacBook-Pro.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars) (foreground-color . "Black") (background-color . "White") (line-spacing) (left-fringe . 10) (right-fringe . 11) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . light) (cursor-color . "black") (environment) (frameset--id . "323D-CC3D-22C4-D9CD") (frameset--mini t . t) (height . 68) (width . 134) (modeline . t) (minibuffer . t) (unsplittable) (left . 960) (top . 23) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "hackroledeMacBook-Pro.local") (explicit-name) (tool-bar-position . top)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 5) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 112) (min-pixel-width . 70) (min-pixel-height-ignore . 56) (min-pixel-width-ignore . 35) (min-pixel-height-safe . 28) (min-pixel-width-safe . 14)) vc (pixel-width . 959) (pixel-height . 938) (total-width . 137) (total-height . 67) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 959) (pixel-height . 462) (total-width . 137) (total-height . 33) (normal-height . 0.5) (normal-width . 1.0) (buffer "*Completions*" (selected) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 362) (start . 1))) (leaf (last . t) (pixel-width . 959) (pixel-height . 476) (total-width . 137) (total-height . 34) (normal-height . 0.5) (normal-width . 1.0) (buffer "lisp" (selected . t) (hscroll . 0) (fringes 10 11 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history nil)
+(setq face-name-history nil)
+(setq file-name-history '("~/.emacs.d/lisp/" "~/.emacs.d/" "~/.emacs.d/lisp/" "~/.emacs.d/lisp/init-pre-local.el" "/Users/daipeng/.emacs.d/lisp/init-clojure.el" "/Users/daipeng/hr-conf/hr-emacs-conf/my-lisps/hr-keys-conf.el" "/Users/daipeng/hr-conf/hr-emacs-conf/my-lisps/" "/Users/daipeng/hr-conf/hr-emacs-conf/" "/Users/daipeng/.emacs.d/lisp/init-local.el" "/Users/daipeng/.emacs.d/lisp/" "~/hr-conf/purcell.emacs/custom.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq minibuffer-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq search-ring nil)
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  nil
+  "lisp"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode diff-hl-dired-mode)
+  1
+  '(1 nil)
+  t
+  '("/Users/daipeng/.emacs.d/lisp/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode diff-hl-dired-mode)
+  1
+  '(nil nil)
+  t
+  '("/Users/daipeng/.emacs.d/")
+  nil)
+

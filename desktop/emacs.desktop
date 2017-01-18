@@ -1,0 +1,56 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Jan 18 17:19:23 2017
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22655 13083 532007 0) (desktop . "208") "daipeng@hackroledeMacBook-Pro.local" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#657b83") (background-color . "#fdf6e3") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . light) (border-color . "#eee8d5") (cursor-color . "#586e75") (frameset--id . "9B04-9DEF-7471-9FBF") (frameset--mini t) (height . 36) (width . 80) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 23) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "hackroledeMacBook-Pro.local") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 38) (min-height-ignore . 3) (min-width-ignore . 13) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 56) (min-pixel-width . 266) (min-pixel-height-ignore . 42) (min-pixel-width-ignore . 91) (min-pixel-height-safe . 14) (min-pixel-width-safe . 28)) hc (pixel-width . 576) (pixel-height . 490) (total-width . 82) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 196) (pixel-height . 490) (total-width . 28) (total-height . 35) (normal-height . 1.0) (normal-width . 0.34201388888888895) (buffer " *NeoTree*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated . t) (point . 252) (start . 1))) (leaf (last . t) (pixel-width . 380) (pixel-height . 490) (total-width . 54) (total-height . 35) (normal-height . 1.0) (normal-width . 0.657986111111111) (buffer "packages.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)))) (((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#657b83") (background-color . "#fdf6e3") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . light) (cursor-color . "#586e75") (environment) (border-color . "#eee8d5") (frameset--id . "E09B-4389-399A-8AF5") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "hackroledeMacBook-Pro.local") (explicit-name) (tool-bar-position . top) (height . 68) (width . 134) (left . 0) (top . 23)) ((min-height . 4) (min-width . 38) (min-height-ignore . 3) (min-width-ignore . 11) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 56) (min-pixel-width . 266) (min-pixel-height-ignore . 42) (min-pixel-width-ignore . 77) (min-pixel-height-safe . 14) (min-pixel-width-safe . 28)) hc (pixel-width . 954) (pixel-height . 938) (total-width . 136) (total-height . 67) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 196) (pixel-height . 938) (total-width . 28) (total-height . 67) (normal-height . 1.0) (normal-width . 0.20649895178197064) (buffer " *NeoTree*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated . t) (point . 252) (start . 1))) (leaf (last . t) (pixel-width . 758) (pixel-height . 938) (total-width . 108) (total-height . 67) (normal-height . 1.0) (normal-width . 0.7935010482180294) (buffer "spacemacs-ui-visual" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 461) (start . 1)))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("eval-buffer" "set-mark-com"))
+(setq face-name-history nil)
+(setq file-name-history '("~/hr-conf/spacemacs.d/layers/+spacemacs/spacemacs-ui-visual/packages.el" "/Users/daipeng/hr-conf/spacemacs.d/layers/+spacemacs/spacemacs-ui-visual/" "/Users/daipeng/projects/TMS/" "~/.emacs.d/lisp/init-preload-local.el" "~/.emacs.d/lisp/init-preload-local.el" "~/.emacs.d/lisp/init-org.el" "~/.emacs.d/lisp/init-local.el" "~/hr-conf/purcell.emacs/custom.el" "~/.emacs.d/lisp/init-org.el" "/Users/daipeng/.emacs.d/lisp/init-local.el" "/Users/daipeng/.emacs.d/lisp/" "~/.emacs.d/lisp/init-clojure.el" "~/.emacs.d/lisp/init-local.el" "~/hr-conf/purcell.emacs/custom.el" "/Users/daipeng/.emacs.d/lisp/init-clojure.el" "/Users/daipeng/hr-conf/hr-emacs-conf/my-lisps/hr-keys-conf.el" "/Users/daipeng/hr-conf/hr-emacs-conf/my-lisps/" "/Users/daipeng/hr-conf/hr-emacs-conf/"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ivy-history '("lisp"))
+(setq minibuffer-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq search-ring nil)
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/daipeng/hr-conf/spacemacs.d/layers/+spacemacs/spacemacs-ui-visual/packages.el"
+  "packages.el"
+  'emacs-lisp-mode
+  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode page-break-lines-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-mode auto-compile-on-load-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode rainbow-delimiters-mode highlight-quoted-mode aggressive-indent-mode redshank-mode elisp-slime-nav-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "spacemacs-ui-visual"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode diff-hl-dired-mode)
+  461
+  '(nil nil)
+  t
+  '("/Users/daipeng/hr-conf/spacemacs.d/layers/+spacemacs/spacemacs-ui-visual/")
+  nil
+  '((mark-ring nil)))
+

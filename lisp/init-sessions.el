@@ -1,7 +1,14 @@
 ;; save a list of open files in ~/.emacs.d/.emacs.desktop
 (setq desktop-path (list user-emacs-directory)
       desktop-auto-save-timeout 600)
-(desktop-save-mode 1)
+;; personal custom
+(setq desktop-dirname "~/hr-conf/purcell.emacs/desktop"
+      desktop-base-file-name "emacs.desktop"
+      desktop-base-lock-name "lock"
+      desktop-path (list desktop-dirname)
+      desktop-save t
+      desktop-load-locked-desktop nil)
+(desktop-save-mode)
 
 (defadvice desktop-read (around time-restore activate)
     (let ((start-time (current-time)))
