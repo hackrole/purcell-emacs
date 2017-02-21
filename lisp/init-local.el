@@ -37,12 +37,23 @@
 (global-set-key (kbd "C-\\ y c") 'yas-recompile-all)
 (global-set-key (kbd "C-\\ y l") 'yas-reload-all)
 
+;; evil-mode
+;;(require-package 'evil)
+;;(evil-mode t)
+
 (defun hr-yasnippet-recompile-and-reload ()
   "make recompile and reload together"
   (interactive)
   (yas-recompile-all)
   (yas-reload-all))
 (global-set-key (kbd "C-\\ y r") 'hr-yasnippet-recompile-and-reload)
+
+;;; python-mode
+;; use ipython if exists
+;; (when (executable-find "ipython")
+;;   (setq python-shell-interpreter "ipython"))
+
+
 
 ;;;; global key define
 (global-set-key (kbd "<f8>") 'eshell)
@@ -59,6 +70,11 @@
 (define-key 'toggle-map (kbd "n") 'linum-mode)
 (define-key 'toggle-map (kbd "p") 'paredit-mode)
 (define-key 'toggle-map (kbd "f") 'flymake-mode)
+;; eval
+(define-prefix-command 'edit-map)
+(global-set-key (kbd "\C-\\ e") 'edit-map)
+(define-key 'edit-map (kbd "b") 'eval-buffer)
+(define-key 'edit-map (kbd "r") 'eval-region)
 
 ;;;; global mode default
 (global-linum-mode t)

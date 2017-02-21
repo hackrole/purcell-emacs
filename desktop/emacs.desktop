@@ -2,55 +2,86 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Wed Jan 18 17:19:23 2017
+;; Created Fri Jan 20 15:24:18 2017
 ;; Desktop file format version 208
 ;; Emacs version 25.1.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (22655 13083 532007 0) (desktop . "208") "daipeng@hackroledeMacBook-Pro.local" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#657b83") (background-color . "#fdf6e3") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . light) (border-color . "#eee8d5") (cursor-color . "#586e75") (frameset--id . "9B04-9DEF-7471-9FBF") (frameset--mini t) (height . 36) (width . 80) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 23) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "hackroledeMacBook-Pro.local") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 38) (min-height-ignore . 3) (min-width-ignore . 13) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 56) (min-pixel-width . 266) (min-pixel-height-ignore . 42) (min-pixel-width-ignore . 91) (min-pixel-height-safe . 14) (min-pixel-width-safe . 28)) hc (pixel-width . 576) (pixel-height . 490) (total-width . 82) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 196) (pixel-height . 490) (total-width . 28) (total-height . 35) (normal-height . 1.0) (normal-width . 0.34201388888888895) (buffer " *NeoTree*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated . t) (point . 252) (start . 1))) (leaf (last . t) (pixel-width . 380) (pixel-height . 490) (total-width . 54) (total-height . 35) (normal-height . 1.0) (normal-width . 0.657986111111111) (buffer "packages.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 3) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1) (start . 1)))) (((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#657b83") (background-color . "#fdf6e3") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . light) (cursor-color . "#586e75") (environment) (border-color . "#eee8d5") (frameset--id . "E09B-4389-399A-8AF5") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "hackroledeMacBook-Pro.local") (explicit-name) (tool-bar-position . top) (height . 68) (width . 134) (left . 0) (top . 23)) ((min-height . 4) (min-width . 38) (min-height-ignore . 3) (min-width-ignore . 11) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 56) (min-pixel-width . 266) (min-pixel-height-ignore . 42) (min-pixel-width-ignore . 77) (min-pixel-height-safe . 14) (min-pixel-width-safe . 28)) hc (pixel-width . 954) (pixel-height . 938) (total-width . 136) (total-height . 67) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 196) (pixel-height . 938) (total-width . 28) (total-height . 67) (normal-height . 1.0) (normal-width . 0.20649895178197064) (buffer " *NeoTree*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated . t) (point . 252) (start . 1))) (leaf (last . t) (pixel-width . 758) (pixel-height . 938) (total-width . 108) (total-height . 67) (normal-height . 1.0) (normal-width . 0.7935010482180294) (buffer "spacemacs-ui-visual" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 461) (start . 1)))))])
+(setq desktop-saved-frameset [frameset 1 (22657 47906 981506 0) (desktop . "208") "daipeng@hackroledeMacBook-Pro.local" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "navajo white") (background-color . "#304020") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "LightGray") (environment) (border-color . "black") (mouse-color . "Grey") (frameset--id . "E09B-4389-399A-8AF5") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "hackroledeMacBook-Pro.local") (explicit-name) (tool-bar-position . top) (height . 68) (width . 134) (left . 960) (top . 23)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 7) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 56) (min-pixel-width . 70) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 49) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 954) (pixel-height . 938) (total-width . 136) (total-height . 67) (normal-height . 1.0) (normal-width . 1.0) (buffer "tasks.py" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 710) (start . 1))))])
 (setq comint-input-ring nil)
 (setq compile-history nil)
 (setq desktop-missing-file-warning nil)
 (setq dired-regexp-history nil)
-(setq extended-command-history '("eval-buffer" "set-mark-com"))
+(setq extended-command-history '("^run-python" "^set-variable" "^ein" "^" "^ein:notebooklist-new" "^ein:note" "^ein:" "^ein:notebooklist-open" "^ip" "^eval-buffer" "^package-list-packages" "^shell" "^magit-dispatch-popup" "^paredit-mode" "^pythonic" "^pythonic-activate" "^lisp-mode" "^python-mode" "^light" "^dark" "^yas" "^yas-global-mode" "^package-install" "set-mark-com"))
 (setq face-name-history nil)
-(setq file-name-history '("~/hr-conf/spacemacs.d/layers/+spacemacs/spacemacs-ui-visual/packages.el" "/Users/daipeng/hr-conf/spacemacs.d/layers/+spacemacs/spacemacs-ui-visual/" "/Users/daipeng/projects/TMS/" "~/.emacs.d/lisp/init-preload-local.el" "~/.emacs.d/lisp/init-preload-local.el" "~/.emacs.d/lisp/init-org.el" "~/.emacs.d/lisp/init-local.el" "~/hr-conf/purcell.emacs/custom.el" "~/.emacs.d/lisp/init-org.el" "/Users/daipeng/.emacs.d/lisp/init-local.el" "/Users/daipeng/.emacs.d/lisp/" "~/.emacs.d/lisp/init-clojure.el" "~/.emacs.d/lisp/init-local.el" "~/hr-conf/purcell.emacs/custom.el" "/Users/daipeng/.emacs.d/lisp/init-clojure.el" "/Users/daipeng/hr-conf/hr-emacs-conf/my-lisps/hr-keys-conf.el" "/Users/daipeng/hr-conf/hr-emacs-conf/my-lisps/" "/Users/daipeng/hr-conf/hr-emacs-conf/"))
-(setq grep-find-history nil)
+(setq file-name-history '("~/projects/TMS/webapp/tasks.py" "~/projects/TMS/TAGS" "~/hr-conf/purcell.emacs/lisp/init-local.el" "~/hr-conf/purcell.emacs/custom.el" "~/hr-conf/purcell.emacs/init.el" "/Users/daipeng/.emacs.d/init.el" "/Users/daipeng/.emacs.d/" "/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/loaddefs.el" "~/hr-conf/purcell.emacs/init.el" "/Users/daipeng/hr-conf/purcell.emacs/custom.el" "/usr/local/Cellar/emacs/25.1/share/emacs/25.1/lisp/loaddefs.el" "~/hr-conf/purcell.emacs/init.el" "/Users/daipeng/hr-conf/purcell.emacs/" "~/hr-conf/purcell.emacs/custom.el" "~/projects/TMS/webapp/tasks.py" "~/projects/TMS/webapp/fabfile.py" "~/projects/TMS/webapp/container/tests/views/test_projects.py" "~/projects/TMS/webapp/container/views/projects.py" "~/projects/TMS/webapp/container/tests/views/test_dashboard.py" "~/projects/TMS/TAGS" "~/hr-conf/purcell.emacs/lisp/init-preload-local.el" "~/hr-conf/purcell.emacs/custom.el" "~/projects/TMS/webapp/tasks.py" "~/projects/TMS/webapp/fabfile.py" "~/projects/TMS/webapp/container/tests/views/test_projects.py" "~/projects/TMS/webapp/container/views/projects.py" "~/projects/TMS/webapp/container/tests/views/test_dashboard.py" "~/projects/TMS/TAGS" "~/hr-conf/purcell.emacs/lisp/init-preload-local.el" "~/hr-conf/purcell.emacs/lisp/init-local.el" "~/hr-conf/purcell.emacs/lisp/init-preload-local.el" "~/hr-conf/purcell.emacs/lisp/init-local.el" "~/.emacs.d/elpa/ein-20170117.455/ein-autoloads.el" "~/.emacs.d/elpa/websocket-20161113.1736/websocket-autoloads.el" "~/.emacs.d/elpa/request-20170113.423/request-autoloads.el" "~/hr-conf/purcell.emacs/custom.el" "~/hr-conf/purcell.emacs/lisp/init-local.el" "~/workspaces/magit-test/nice" "~/hr-conf/purcell.emacs/lisp/init-git.el" "~/hr-conf/purcell.emacs/lisp/init-preload-local.el" "~/hr-conf/hr-emacs-conf/my-lisps/hr-yasnippet-conf.el" "~/projects/TMS/webapp/tasks.py" "~/projects/TMS/webapp/fabfile.py" "~/hr-conf/purcell.emacs/lisp/init-css.el" "~/projects/TMS/webapp/container/tests/views/test_projects.py" "~/projects/TMS/webapp/container/views/projects.py" "~/hr-conf/purcell.emacs/lisp/init-local.el" "~/projects/TMS/webapp/container/tests/views/test_dashboard.py" "~/hr-conf/purcell.emacs/.projectile" "~/projects/TMS/webapp/container/views/dashboard.py" "~/projects/TMS/TAGS" "/Users/daipeng/.virtualenvs/tms/" "/Users/daipeng/.virtualenvs/tms/bin/activate" "~/projects/TMS/webapp/container/views/dashboard.py" "/Users/daipeng/hr-conf/purcell.emacs/.projectile" "~/projects/TMS/webapp/container/tests/views/test_dashboard.py" "~/projects/TMS/webapp/container/tests/views/test_projects.py" "~/projects/TMS/.dir-locals.el" "/Users/daipeng/projects/TMS/webapp/container/views/" "~/projects/TMS/webapp/container/views/projects.py" "~/projects/TMS/webapp/container/views/dashboard.py" "~/hr-conf/purcell.emacs/lisp/init-local.el" "~/hr-conf/purcell.emacs/lisp/init-css.el" "~/hr-conf/purcell.emacs/lisp/init-local.el" "/Users/daipeng/projects/TMS/webapp/fabfile.py" "~/projects/TMS/webapp/tasks.py" "~/hr-conf/spacemacs.d/layers/+lang/python/packages.el" "~/hr-conf/spacemacs.d/layers/+lang/python/funcs.el" "~/hr-conf/spacemacs.d/layers/+lang/python/config.el" "/Users/daipeng/hr-conf/spacemacs.d/layers/" "/Users/daipeng/hr-conf/spacemacs.d/" "~/hr-conf/purcell.emacs/lisp/init-python-mode.el" "~/projects/TMS/webapp/fabfile.py" "~/projects/TMS/TAGS" "~/hr-conf/purcell.emacs/lisp/init-python-mode.el" "~/.emacs.d/.bookmarks.el" "~/hr-conf/hr-emacs-conf/my-lisps/hr-yasnippet-conf.el" "~/hr-conf/purcell.emacs/lisp/init-themes.el" "~/hr-conf/purcell.emacs/custom.el" "~/hr-conf/purcell.emacs/lisp/init-benchmarking.el" "~/hr-conf/purcell.emacs/lisp/init-clojure-cider.el" "~/hr-conf/purcell.emacs/lisp/init-clojure.el" "~/hr-conf/purcell.emacs/lisp/init-common-lisp.el" "~/hr-conf/purcell.emacs/init.el" "~/hr-conf/purcell.emacs/lisp/init-org.el" "~/hr-conf/purcell.emacs/lisp/init-mmm.el" "~/hr-conf/purcell.emacs/lisp/init-utils.el" "~/hr-conf/purcell.emacs/lisp/init-common-lisp.el" "~/hr-conf/purcell.emacs/lisp/init-clojure.el" "~/hr-conf/purcell.emacs/lisp/init-clojure-cider.el" "~/hr-conf/purcell.emacs/lisp/init-benchmarking.el" "~/hr-conf/purcell.emacs/lisp/init-company.el" "~/hr-conf/purcell.emacs/lisp/init-slime.el" "~/hr-conf/purcell.emacs/lisp/init-whitespace.el" "~/.emacs.d/.bookmarks.el" "~/hr-conf/hr-emacs-conf/my-lisps/hr-yasnippet-conf.el" "~/hr-conf/purcell.emacs/lisp/init-themes.el" "~/hr-conf/purcell.emacs/init.el" "~/hr-conf/purcell.emacs/custom.el" "~/.emacs.d/lisp/init-local.el"))
+(setq grep-find-history '("find . -type d \\( -path \\*/\\{arch\\} -o -path \\*/_darcs -o -path \\*/_MTN -o -path \\*/.bzr -o -path \\*/.hg -o -path \\*/.git -o -path \\*/.svn -o -path \\*/.src -o -path \\*/MCVS -o -path \\*/CVS -o -path \\*/RCS -o -path \\*/SCCS -o -path \\*/.idea -o -path \\*/.ensime_cache -o -path \\*/.eunit -o -path \\*/.git -o -path \\*/.hg -o -path \\*/.fslckout -o -path \\*/_FOSSIL_ -o -path \\*/.bzr -o -path \\*/_darcs -o -path \\*/.tox -o -path \\*/.svn -o -path \\*/.stack-work \\) -prune -o \\! -type d \\( -name TAGS -o -name .\\#\\* -o -name \\*.beam -o -name \\*.vee -o -name \\*.jam -o -name \\*.hi -o -name \\*.o -o -name \\*\\~ -o -name \\*.bin -o -name \\*.lbin -o -name \\*.so -o -name \\*.a -o -name \\*.ln -o -name \\*.blg -o -name \\*.bbl -o -name \\*.elc -o -name \\*.lof -o -name \\*.glo -o -name \\*.idx -o -name \\*.lot -o -name \\*.fmt -o -name \\*.tfm -o -name \\*.class -o -name \\*.fas -o -name \\*.lib -o -name \\*.mem -o -name \\*.x86f -o -name \\*.sparcf -o -name \\*.dfsl -o -name \\*.pfsl -o -name \\*.d64fsl -o -name \\*.p64fsl -o -name \\*.lx64fsl -o -name \\*.lx32fsl -o -name \\*.dx64fsl -o -name \\*.dx32fsl -o -name \\*.fx64fsl -o -name \\*.fx32fsl -o -name \\*.sx64fsl -o -name \\*.sx32fsl -o -name \\*.wx64fsl -o -name \\*.wx32fsl -o -name \\*.fasl -o -name \\*.ufsl -o -name \\*.fsl -o -name \\*.dxl -o -name \\*.lo -o -name \\*.la -o -name \\*.gmo -o -name \\*.mo -o -name \\*.toc -o -name \\*.aux -o -name \\*.cp -o -name \\*.fn -o -name \\*.ky -o -name \\*.pg -o -name \\*.tp -o -name \\*.vr -o -name \\*.cps -o -name \\*.fns -o -name \\*.kys -o -name \\*.pgs -o -name \\*.tps -o -name \\*.vrs -o -name \\*.pyc -o -name \\*.pyo \\) -prune -o  -type f \\( -iname \\* -o -iname .\\* \\) -exec grep -i -nH -e pid_list {} +"))
 (setq grep-history nil)
-(setq ivy-history '("lisp"))
-(setq minibuffer-history nil)
+(setq ido-buffer-history nil)
+(setq ido-last-directory-list nil)
+(setq ido-work-directory-list nil)
+(setq ido-work-file-list nil)
+(setq ivy-history '("tasks.py" "init-local.el" "python-shell-inter" "init-local.el" "require-package" "TAGS" "python2" "http://127.0.0.1:8888" "8888" "http://127.0.0.1:8888" "python" "http://127.0.0.1:8888" "mes" "init-pre" "shell" "Emacs" "init-local" "*magit: magit-test" "nice" "*magit: magit-test" "*magit: purcell.emacs" "init-git" "purcell.emacs" "~/hr-conf/hr-emacs-conf/" "init-preload" "dashboard" "dash" "projects.py" "webapp/container/views/projects.py" "views" "views/dashboard.py" "views/proj" "views/dash" "spacemacs.d" "dir" "hr-conf" "yasnippets" "lisp"))
+(setq minibuffer-history '("pid_list" "24" "purcell.emacs" "hr-conf" "TMS" "projects"))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history nil)
 (setq query-replace-history nil)
 (setq read-expression-history nil)
 (setq regexp-history nil)
 (setq regexp-search-ring nil)
 (setq register-alist nil)
-(setq search-ring nil)
-(setq shell-command-history nil)
+(setq search-ring '("session" "theme" "custom-fileo" "custom-file" "custom" "set" "ipython" "paradit" "start" "init-local" "task" "init-python" "fab" "python" "ido" "m"))
+(setq shell-command-history '("ls"))
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 208
-  "/Users/daipeng/hr-conf/spacemacs.d/layers/+spacemacs/spacemacs-ui-visual/packages.el"
-  "packages.el"
+  "/Users/daipeng/projects/TMS/webapp/tasks.py"
+  "tasks.py"
+  'python-mode
+  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode yas-minor-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode rainbow-delimiters-mode indent-guide-mode company-mode ivy-mode counsel-mode flycheck-mode anaconda-mode anaconda-eldoc-mode)
+  710
+  '(173 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/Users/daipeng/hr-conf/purcell.emacs/lisp/init-local.el"
+  "init-local.el"
   'emacs-lisp-mode
-  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode page-break-lines-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-mode auto-compile-on-load-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode rainbow-delimiters-mode highlight-quoted-mode aggressive-indent-mode redshank-mode elisp-slime-nav-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode flycheck-mode)
-  1
-  '(nil nil)
+  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode page-break-lines-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-mode auto-compile-on-load-mode yas-minor-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode rainbow-delimiters-mode highlight-quoted-mode aggressive-indent-mode redshank-mode elisp-slime-nav-mode company-mode ivy-mode counsel-mode flycheck-mode)
+  2605
+  '(2605 t)
   nil
   nil
-  '((buffer-file-coding-system . utf-8-unix))
+  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode))
+  '((mark-ring (1662 2581 2605))))
+
+(desktop-create-buffer 208
+  nil
+  ".emacs.d"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode yas-minor-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode diff-hl-dired-mode)
+  877
+  '(1 nil)
+  t
+  '("/Users/daipeng/.emacs.d/")
+  nil
   '((mark-ring nil)))
 
 (desktop-create-buffer 208
   nil
-  "spacemacs-ui-visual"
+  "purcell.emacs"
   'dired-mode
-  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode diff-hl-dired-mode)
-  461
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode yas-minor-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode diff-hl-dired-mode)
+  1394
   '(nil nil)
   t
-  '("/Users/daipeng/hr-conf/spacemacs.d/layers/+spacemacs/spacemacs-ui-visual/")
+  '("/Users/daipeng/hr-conf/purcell.emacs/")
   nil
   '((mark-ring nil)))
 
